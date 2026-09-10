@@ -247,3 +247,6 @@ This repository serves as the official landing page for Windows Essentials. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows Essentials today!**
+
+---
+**Last updated:** 2026-09-10 20:11:34 UTC
